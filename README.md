@@ -6,13 +6,14 @@ This project is an Arduino-based embedded system that automatically controls a f
 ## Features
 - Automatic fan control based on temperature
 - Real-time sensor data reading
+- WiFi-based monitoring or remote control
 - Embedded control logic for responsive operation
-- Simple smart home style monitoring and actuation
 
 ## Hardware / Platform
-- Arduino
+- Arduino / ESP-based controller
 - Temperature sensor
 - Fan control module
+- WiFi communication module
 - Power supply for embedded operation
 
 ## Software / Tools
